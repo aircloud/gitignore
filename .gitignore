@@ -2,6 +2,9 @@
 # System
 .DS_Store
 
+# IDE or eidtor
+.idea
+
 # Dependency directories
 node_modules/
 
