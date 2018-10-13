@@ -3,8 +3,8 @@
 .DS_Store
 
 # IDE or eidtor
-.idea
-.code
+.idea/
+.code/
 
 # Dependency directories
 node_modules/
