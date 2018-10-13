@@ -4,6 +4,7 @@
 
 # IDE or eidtor
 .idea
+.code
 
 # Dependency directories
 node_modules/
